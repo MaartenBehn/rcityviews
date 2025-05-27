@@ -93,12 +93,13 @@
   return(!inherits(res, "try-error"))
 }
 
-.tick <- function(verbose, progBar, ticks, shiny) {
+.tick <- function(verbose, progBar, ticks, shiny, step = "") {
   if (shiny) {
     shiny::incProgress(amount = 1 / ticks)
   } else {
     if (verbose) {
       progBar$tick()
+      progBar$message(paste0("Getting", step))
     }
   }
 }
