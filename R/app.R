@@ -52,11 +52,6 @@
         shiny::downloadButton(outputId = "downloadPlot", label = "Download", style = "color: #000000; background-color: #009989; border-color: #000000")
       ),
       shiny::HTML("<br>"),
-      shiny::fluidRow(
-        align = "center",
-        shiny::tags$a(href = "https://koenderks.shinyapps.io/rcityviews/", "Tweet", class = "x-share-button"),
-        shiny::includeScript("https://platform.x.com/widgets.js")
-      )
     )
   ),
   shiny::hr(),
