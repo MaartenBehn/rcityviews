@@ -54,8 +54,8 @@
       shiny::HTML("<br>"),
       shiny::fluidRow(
         align = "center",
-        shiny::tags$a(href = "https://koenderks.shinyapps.io/rcityviews/", "Tweet", class = "twitter-share-button"),
-        shiny::includeScript("https://platform.twitter.com/widgets.js")
+        shiny::tags$a(href = "https://koenderks.shinyapps.io/rcityviews/", "Tweet", class = "x-share-button"),
+        shiny::includeScript("https://platform.x.com/widgets.js")
       )
     )
   ),

@@ -13,7 +13,7 @@ identifiers:
 - type: url
   value: https://koenderks.shinyapps.io/rcityviews/
 - type: url
-  value: https://twitter.com/rcityviews
+  value: https://x.com/rcityviews
 abstract: A user-friendly interface to create customizable stylized city maps in 'ggplot2'
   using data from OpenStreetMap <https://www.openstreetmap.org/>. This package is
   not affiliated with the OpenStreetMap.org mapping project.

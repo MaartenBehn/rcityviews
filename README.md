@@ -23,8 +23,8 @@ a quick guide on how to get started.
 * [Acknowledgements](#acknowledgements)
 
 Every three hours this repository creates and tweets a view of a random city.
-You can find all city views created so far at the twitter handle
-[`@rcityviews`](https://twitter.com/rcityviews). Please do not hesitate to share
+You can find all city views created so far at the x handle
+[`@rcityviews`](https://x.com/rcityviews). Please do not hesitate to share
 your own creations using the hashtag `#rcityviews`!
 
 ## Installation

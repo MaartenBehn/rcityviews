@@ -26,7 +26,7 @@
 \seealso{
 Useful links:
 \itemize{
-  \item The \href{https://twitter.com/rcityviews}{twitter feed} to check the regularly city views.
+  \item The \href{https://x.com/rcityviews}{tx feed} to check the regularly city views.
   \item The \href{https://github.com/koenderks/rcityviews/issues}{issue page} to submit a bug report or feature request.
 }
 }

@@ -84,7 +84,7 @@
 #' @param cache    logical. Whether to cache the data for the image so that they
 #'                 do not need to be requested again when calling the function
 #'                 with a different theme.
-#' @param bot      logical. Enable functionality used by the Twitter bot.
+#' @param bot      logical. Enable functionality used by the X bot.
 #'
 #' @details The \code{theme} argument can take a custom list as input (see the
 #'   example). This list must contain all of the following elements:

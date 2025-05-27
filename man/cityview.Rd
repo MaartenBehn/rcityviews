@@ -80,7 +80,7 @@ appropriate size and does not return a \code{ggplot2} object.}
 do not need to be requested again when calling the function
 with a different theme.}
 
-\item{bot}{logical. Enable functionality used by the Twitter bot.}
+\item{bot}{logical. Enable functionality used by the X bot.}
 }
 \description{
 Create a city view showcasing a particular city or region using
